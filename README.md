@@ -1,6 +1,6 @@
 # Description
 
-"3 days to live" is a short narrative game about existentialism and the meaning of life. The game is divided in 2 phases: the main one, in which you talk with NPCs to confront your views and obtain items, and another, smaller one, in which you need to survive the harsh environments of the mountain.
+"3 days to live" is a short narrative game about existentialism and the meaning of life. The game is divided in 2 phases: the main one, in which you talk with mysterious characters to confront your views and obtain items, and another, smaller one, in which you need to survive the harsh environments of the mountain.
 
 # Synopsis
 
