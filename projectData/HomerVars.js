@@ -9,6 +9,8 @@
 
 class HomerVars {
 
+      static Health = 0;
+      static Grit = 3;
       static hasSpark = false;
       static hasSeed = false;
       static hasBrush = false;
@@ -30,6 +32,8 @@ class HomerActors {
 }
 
 class HomerMeta {
+      static MUSIC = {
+      };
       static FLOW_STATE = {
           IDEA : 'IDEA',
           NOTES : 'NOTES',
