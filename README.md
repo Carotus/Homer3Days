@@ -9,6 +9,6 @@ You reside in a small town close to a mountain. The outside environment is hosti
 ## Play Online
 <https://carotus.github.io/Homer3Days/>
 
-# Credits
+## Credits
 
 Made by Alessio Coppedè | email: ale.coppe.ac@gmail.com
